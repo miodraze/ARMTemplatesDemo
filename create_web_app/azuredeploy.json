@@ -18,7 +18,7 @@
     },
     "testUri": {
       "type": "string",
-      "defaultValue": "https://azure.status.microsoft/status/",
+      "defaultValue": "https://azure.status.microsoft/Milovan/",
       "metadata": {
         "description": "A test URI"
       }
