@@ -18,7 +18,7 @@
     },
     "testUri": {
       "type": "string",
-      "defaultValue": "https://azure.status.microsoft/Milovan/",
+      "defaultValue": "https://azure.status.microsoft/CRMGroup/",
       "metadata": {
         "description": "A test URI"
       }
