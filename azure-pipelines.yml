@@ -20,6 +20,5 @@ steps:
     location: 'East US'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/miodraze/ARMTemplatesDemo/main/create_web_app/azuredeploy.json'
-    overrideParameters: '-projectName armtemplatesdemo'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
